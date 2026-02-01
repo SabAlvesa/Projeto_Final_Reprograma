@@ -1,4 +1,4 @@
-Projeto: Análise de Dados: Mulheres 40+: Invisíveis ou Essenciais? Um retrato da maturidade no mercado de trabalho
+Projeto - Análise de Dados: Mulheres 40+: Invisíveis ou Essenciais? Um retrato da maturidade no mercado de trabalho
 ---
 
 Este repositório contém o projeto final desenvolvido para o curso de Análise de Dados com Python na {re}programa. O projeto percorre todo o pipeline de dados, desde o processamento de microdados governamentais até a entrega de insights estratégicos.
